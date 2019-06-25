@@ -91,6 +91,7 @@ p {
     background-color: #666666;
     text-align: center; 
     height: 75px;
+    width: 100%;
     color: #ffffff;
     border-top: 8px solid #4aaaa5;
 }
