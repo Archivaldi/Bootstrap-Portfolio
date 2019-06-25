@@ -147,3 +147,7 @@ html, body {
     color: white;
     top: 70%;
   }
+
+  .col-sm-6 {
+    margin-right: 50px;
+  }
