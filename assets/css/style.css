@@ -120,6 +120,9 @@ html, body {
     font-size: 20px;
     border: none;
   }
+  .col-sm-10 {
+      padding: 0;
+  }
 
   label {
     line-height: 1.4;
