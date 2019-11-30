@@ -1,5 +1,7 @@
 const express = require("express");
 const app = express();
+const data = require('./dataBase')
+const projects = data.data;
 
 const PORT = process.env.PORT || 3000;
 
@@ -14,7 +16,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/portfolio", (req, res) => {
-    res.render("portfolio");
+    res.render("portfolio", {projects});
 });
 
 app.get("/contact", (req, res) => {
