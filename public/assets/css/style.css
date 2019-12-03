@@ -1,11 +1,15 @@
- #photomain {
+#photomain {
      float: left;
      width: 200px;
      height: 165px;
      margin: 10px;
      margin-bottom: 0;
- }
- a {
+}
+
+#github {
+    text-decoration: underline;
+}
+a {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     font-size: 20px;
