@@ -43,5 +43,20 @@ exports.data = [
         link: "https://dark-zombie-52855.herokuapp.com/",
         img: "https://timlukens.com/img/mongo-scraper.png",
         name: "Mongo Scraper"
+    },
+    {
+        link: "https://archivaldi.github.io/Trivia-Game/",
+        img: "https://i.ytimg.com/vi/STKppKQGHNE/maxresdefault.jpg",
+        name: "Trivia Game"
+    },
+    {
+        link: "https://archivaldi.github.io/unit-4-game/",
+        img: "https://d.newsweek.com/en/full/1515789/marvel-star-wars-allegiance.jpg?w=1600&h=1600&q=88&f=075385825b323ec3678fc6f404ef6418",
+        name: "Star Wars"
+    },
+    {
+        link: "https://archivaldi.github.io/Word-Guess-Game/",
+        img: "https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/81/66/ec/8166ec48-3566-ea7e-f07e-ef54e4777a81/source/512x512bb.jpg",
+        name: "Word Guess Game"
     }
 ]
