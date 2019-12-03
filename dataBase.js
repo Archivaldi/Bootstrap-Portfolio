@@ -23,5 +23,10 @@ exports.data = [
         link: "https://mighty-taiga-30175.herokuapp.com/",
         img: "https://thumbs.dreamstime.com/z/book-search-19657320.jpg",
         name: "Google-Book-Search"
+    },
+    {
+        link: "https://archivaldi.github.io/Sound-Toy/",
+        img: "https://ctl.s6img.com/society6/img/jDCRIWMalNbMVmSuMyKSfoRkWYM/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/40ca097bd5f44fdea91a90740c037f79/~~/colored-circles1124893-prints.jpg",
+        name: "Sound Toy"
     }
 ]
