@@ -17,7 +17,7 @@ exports.data = [
     {
         link: "https://github.com/Archivaldi/liri-node-app",
         img: "https://www.yourliri.com/wp-content/uploads/2017/09/Your-Liri-transparent-logo.png",
-        name: "liri-node-app "
+        name: "liri-node-app"
     },
     {
         link: "https://mighty-taiga-30175.herokuapp.com/",
@@ -28,5 +28,15 @@ exports.data = [
         link: "https://archivaldi.github.io/Sound-Toy/",
         img: "https://ctl.s6img.com/society6/img/jDCRIWMalNbMVmSuMyKSfoRkWYM/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/40ca097bd5f44fdea91a90740c037f79/~~/colored-circles1124893-prints.jpg",
         name: "Sound Toy"
+    },
+    {
+        link: "https://frozen-lake-79917.herokuapp.com/",
+        img: "https://t0.rbxcdn.com/f225505424ea259af5f6c01ad3ce6992",
+        name: "Clicky Game"
+    },
+    {
+        link: "https://archivaldi.github.io/Stock-check/",
+        img: "https://static-news.moneycontrol.com/static-mcnews/2018/12/SENSEX_NSE_nifty_BSE_Stock-market-1-770x433.jpg",
+        name: "Stock Check"
     }
 ]
