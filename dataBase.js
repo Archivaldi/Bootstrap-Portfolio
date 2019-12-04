@@ -5,6 +5,11 @@ exports.data = [
         name: "Car-Diagniostic"
     },
     {
+        link: "https://archivaldi.github.io/Stock-check/",
+        img: "https://static-news.moneycontrol.com/static-mcnews/2018/12/SENSEX_NSE_nifty_BSE_Stock-market-1-770x433.jpg",
+        name: "Stock Check"
+    },
+    {
         link: "https://damp-bastion-19377.herokuapp.com/",
         img: "https://www.consumer.ftc.gov/sites/www.consumer.ftc.gov/files/games/off-site/game-0003_friend-finder_680x360.png",
         name: "Friend-finder"
@@ -33,11 +38,6 @@ exports.data = [
         link: "https://frozen-lake-79917.herokuapp.com/",
         img: "https://t0.rbxcdn.com/f225505424ea259af5f6c01ad3ce6992",
         name: "Clicky Game"
-    },
-    {
-        link: "https://archivaldi.github.io/Stock-check/",
-        img: "https://static-news.moneycontrol.com/static-mcnews/2018/12/SENSEX_NSE_nifty_BSE_Stock-market-1-770x433.jpg",
-        name: "Stock Check"
     },
     {
         link: "https://dark-zombie-52855.herokuapp.com/",
